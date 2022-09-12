@@ -42,7 +42,7 @@ Years | Course name | Organisation
 2022 | Interactive SQL Simulator | stepik.org
 2019 |  Data Analysis and Presentation Skills: the PwC Approach | Coursera
 
-## Code example
+## Code example 
 ```
 const length = (str) => str.length;
 const toUpperCase = (str) => str.toUpperCase();
@@ -72,4 +72,4 @@ JavaScript, HTML&CSS, GIT, Software testing, SQL, OTRS, Photoshop, Working in te
 
 ## English Level
 Proficient - according to the online test at www.efset.org
-![EF certificate](assets/img/certificate_77.png) 
+![EF certificate](assets/img/certificate_77.png)
